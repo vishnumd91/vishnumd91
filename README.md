@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishnu M D</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [My Portfolio Project](https://github.com/vishnumd91/My-Portfolio-UI)
+- 🔭 I’m currently working on [Knowledgecube Learning Platform](https://github.com/vishnumd91/KnowledgeCube-Learning-Platform.git)
 
-- 🌱 I’m currently learning **MERN Stack, GraphQL,AWS**
+- 🌱 I’m currently learning **MERN Stack,Azure Cloud Services**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vishnudivakaran1@gmail.com**
 
-- 📄 Know about my experiences [https://vishnu-md-portfolio.netlify.app/](https://vishnu-md-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://vishnumd-vite-portfolio.netlify.app/](https://vishnumd-vite-portfolio.netlify.app/)
 
 - ⚡ Fun fact **One thing I cannot live without is biriyani**
 
